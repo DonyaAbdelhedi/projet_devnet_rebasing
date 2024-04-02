@@ -4,6 +4,7 @@ nouvelle modification Rebasing
     Bonjour le 2/3/2024
 	Fusion des branches (Merge) Fast Forward Merge
 -->
+ajouter une nouvelle ligne 
 Stellar by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
