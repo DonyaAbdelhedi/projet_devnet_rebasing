@@ -1,6 +1,7 @@
 <!--
 nouvelle modification Rebasing
-    hhhhhhhhhhhhhhhhhhBranche add_modifs
+    test pour stashing dans une branche
+	Branche add_modifs
     Bonjour le 2/3/2024
 	Fusion des branches (Merge) Fast Forward Merge
 -->
